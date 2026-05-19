@@ -1,27 +1,27 @@
 {
-  "version": "0.4.11",
-  "notes": "### Fixed\n- fix active state and table editing",
-  "pub_date": "2026-05-19T13:37:39.000Z",
+  "version": "0.4.12",
+  "notes": "### Fixed\n- complete static CM6 base shim with cursor, wrapping, and layout tokens",
+  "pub_date": "2026-05-19T14:09:32.000Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUeDVLcW5lU251WlR3SGRkaURBM3BubzNlQWw2bllxeDcxR2dWT2xpUTZidXRuNkpMcEdLUGNuVG9lSWs4Z2x0Um4ySC9rNTRTd3ppbGU0QlZJTUpQTGUzYk91Q2N0c2cwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5MTk3NzI3CWZpbGU6TW9zcy5hcHAudGFyLmd6CjZ3V0lhdHhMT2hhMGlzeFJmaTRBMzdwL2lVbGVQNVFpODlLVHd3Q2F2RXZpV1BGVXhJUi9NTFAwVUNEeHdyRWpzb0svQTgxeUEwVFFobEI2Q2Q3YkJBPT0K",
-      "url": "https://github.com/pdevera15/moss-updates/releases/download/v0.4.11/Moss_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUeDVLcW5lU251WmV3eDF2WktNSm04WklpUFZMbktZWFZRbVRybjdCQ21XR3ZkSmJzVW5QaVdlR2IyTE0zVXVDTXJOeG1zLy9zT1FkSTI0RVpHQ21LWVF3bE1oQnFOQndZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5MTk5NjgzCWZpbGU6TW9zcy5hcHAudGFyLmd6ClpSSXdRSVhKZCtyZFFvei92clhKbGxKT21YdG9Saks2bFRpc2lEVmVpN1RTL2VXVkZlRU1YWkh5WHhOV3dKTTlYTHFHcEQ0VHdyRm5kWDQ4MUZaN0N3PT0K",
+      "url": "https://github.com/pdevera15/moss-updates/releases/download/v0.4.12/Moss_aarch64.app.tar.gz"
     },
     "darwin-aarch64-app": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUeDVLcW5lU251WlR3SGRkaURBM3BubzNlQWw2bllxeDcxR2dWT2xpUTZidXRuNkpMcEdLUGNuVG9lSWs4Z2x0Um4ySC9rNTRTd3ppbGU0QlZJTUpQTGUzYk91Q2N0c2cwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5MTk3NzI3CWZpbGU6TW9zcy5hcHAudGFyLmd6CjZ3V0lhdHhMT2hhMGlzeFJmaTRBMzdwL2lVbGVQNVFpODlLVHd3Q2F2RXZpV1BGVXhJUi9NTFAwVUNEeHdyRWpzb0svQTgxeUEwVFFobEI2Q2Q3YkJBPT0K",
-      "url": "https://github.com/pdevera15/moss-updates/releases/download/v0.4.11/Moss_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUeDVLcW5lU251WmV3eDF2WktNSm04WklpUFZMbktZWFZRbVRybjdCQ21XR3ZkSmJzVW5QaVdlR2IyTE0zVXVDTXJOeG1zLy9zT1FkSTI0RVpHQ21LWVF3bE1oQnFOQndZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5MTk5NjgzCWZpbGU6TW9zcy5hcHAudGFyLmd6ClpSSXdRSVhKZCtyZFFvei92clhKbGxKT21YdG9Saks2bFRpc2lEVmVpN1RTL2VXVkZlRU1YWkh5WHhOV3dKTTlYTHFHcEQ0VHdyRm5kWDQ4MUZaN0N3PT0K",
+      "url": "https://github.com/pdevera15/moss-updates/releases/download/v0.4.12/Moss_aarch64.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUeDVLcW5lU251WlR5aFVodTY5a1FiV1Y0VUpqUmt4cE5oMnJTV0FwVjY3RkJrTkcwWjNQdHJod3dxWGNPU0hrTmlScC9ieTRUZVlYVkgrWHl6SDg5ZmMzTk9qanFwOVFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5MTk3ODI1CWZpbGU6TW9zc18wLjQuMTFfeDY0LXNldHVwLmV4ZQpnUmpGZXFFYTRLMlEvZWZSRG1pNXR4VlNQaU9xSVRXT0JUVGlFeUUxQXVXYTBneUhsbXR1U3lybzhlRlZTeUZFRDIrODlEN25DZ1NLWkI3cGw0SC9Bdz09Cg==",
-      "url": "https://github.com/pdevera15/moss-updates/releases/download/v0.4.11/Moss_0.4.11_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUeDVLcW5lU251Wld2ZGFwbm1oWGl6cnN6N1FrR0VyVTl0N0RjbFFuRFNqWGFIK0FPb2lRUC9yTGcxaDgrNExtaVNKUU5GOE1hQUs1REg0T0Zrc3pjenVzSXNKUE11eVEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5MTk5NzMyCWZpbGU6TW9zc18wLjQuMTJfeDY0LXNldHVwLmV4ZQpNTkJKYUh0eUhkZXRKdWRId0FJYzlxZE1oWU1kUTRyY3htTm1VU21udkFveG40UGtWTWNvZk9OeE5xMEVoNkhqVVYxUTFrVzNpS09IYVFRYTc4L2RCQT09Cg==",
+      "url": "https://github.com/pdevera15/moss-updates/releases/download/v0.4.12/Moss_0.4.12_x64-setup.exe"
     },
     "windows-x86_64-msi": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUeDVLcW5lU251WmRMWFdaNXpKUlVIVjBWdGRtSFA3d2IzTzdZVGg1UkpwN0VFbUVqeGdzTi84YkdmNnI4TC91ODJKeTd6WE5Oc1h5VjBHMGo1U24wMXMwaVJLYXAyZkFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5MTk3ODI1CWZpbGU6TW9zc18wLjQuMTFfeDY0X2VuLVVTLm1zaQpWa2hrd3BWcjNTVjRBTzZaTnUvL1JLK2FCZ1pRMXB1MjhpVVRyRFBTc0YwMTMwYkZuRXdXVzJ6d09SdGNOREtRUWpmeXZGaXo5M3psdkRzWnpNY3dBQT09Cg==",
-      "url": "https://github.com/pdevera15/moss-updates/releases/download/v0.4.11/Moss_0.4.11_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUeDVLcW5lU251WmE3ZFZPZTlqNStmdDZuM0RJS3Z4WmRJWXExRWtVckZjYnNVK1o1ZW1PN2dOd1pLeW5sWXQxNkxkd0pWeEFIMGEra09nWXFzemZuOVRGRG5qdnhwZndvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5MTk5NzMyCWZpbGU6TW9zc18wLjQuMTJfeDY0X2VuLVVTLm1zaQp1eUNYR1hjaWlQbTBCVlVZMU5CYm53bFJ0eEVGRDJEMVV5YW9sNnlNWGUvVUVmTmxlaXlodHY1cVZoYzNnbFc5SXRIUEFydDZoZ2VGM2pTTjhwQkJDZz09Cg==",
+      "url": "https://github.com/pdevera15/moss-updates/releases/download/v0.4.12/Moss_0.4.12_x64_en-US.msi"
     },
     "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUeDVLcW5lU251WlR5aFVodTY5a1FiV1Y0VUpqUmt4cE5oMnJTV0FwVjY3RkJrTkcwWjNQdHJod3dxWGNPU0hrTmlScC9ieTRUZVlYVkgrWHl6SDg5ZmMzTk9qanFwOVFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5MTk3ODI1CWZpbGU6TW9zc18wLjQuMTFfeDY0LXNldHVwLmV4ZQpnUmpGZXFFYTRLMlEvZWZSRG1pNXR4VlNQaU9xSVRXT0JUVGlFeUUxQXVXYTBneUhsbXR1U3lybzhlRlZTeUZFRDIrODlEN25DZ1NLWkI3cGw0SC9Bdz09Cg==",
-      "url": "https://github.com/pdevera15/moss-updates/releases/download/v0.4.11/Moss_0.4.11_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUeDVLcW5lU251Wld2ZGFwbm1oWGl6cnN6N1FrR0VyVTl0N0RjbFFuRFNqWGFIK0FPb2lRUC9yTGcxaDgrNExtaVNKUU5GOE1hQUs1REg0T0Zrc3pjenVzSXNKUE11eVEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5MTk5NzMyCWZpbGU6TW9zc18wLjQuMTJfeDY0LXNldHVwLmV4ZQpNTkJKYUh0eUhkZXRKdWRId0FJYzlxZE1oWU1kUTRyY3htTm1VU21udkFveG40UGtWTWNvZk9OeE5xMEVoNkhqVVYxUTFrVzNpS09IYVFRYTc4L2RCQT09Cg==",
+      "url": "https://github.com/pdevera15/moss-updates/releases/download/v0.4.12/Moss_0.4.12_x64-setup.exe"
     }
   }
 }
